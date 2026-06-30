@@ -1,0 +1,63 @@
+## TC-019 - Verify all product images are displayed
+
+**Preconditions**
+- User is logged in.
+
+**Steps**
+1. Open the Products page.
+2. Review all product cards.
+
+**Expected Result**
+- Every product has an image displayed correctly.
+
+---
+
+## TC-020 - Verify product names are displayed
+
+**Preconditions**
+- User is logged in.
+
+**Steps**
+1. Open Products page.
+
+**Expected Result**
+- Every product displays its correct name.
+
+---
+
+## TC-021 - Verify product prices are displayed
+
+**Preconditions**
+- User is logged in.
+
+**Steps**
+1. Open Products page.
+
+**Expected Result**
+- Every product displays its price.
+
+---
+
+## TC-022 - Verify product description is displayed
+
+**Preconditions**
+- User is logged in.
+
+**Steps**
+1. Open Products page.
+
+**Expected Result**
+- Each product has a description.
+
+---
+
+## TC-023 - Verify product sorting by Name (Z-A)
+
+**Preconditions**
+- User is logged in.
+
+**Steps**
+1. Select "Name (Z to A)" from sorting.
+
+**Expected Result**
+- Products are sorted in descending alphabetical order.
