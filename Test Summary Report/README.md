@@ -78,22 +78,3 @@ The application is considered stable for the tested scenarios.
 
 This project was completed as a demonstration of manual QA testing skills and documentation practices.
 
-# Test Summary Report
-
-## Project Information
-
-## Objective
-
-## Scope
-
-## Test Environment
-
-## Test Execution Summary
-
-## Test Metrics
-
-## Bug Summary
-
-## Release Recommendation
-
-## Conclusion
