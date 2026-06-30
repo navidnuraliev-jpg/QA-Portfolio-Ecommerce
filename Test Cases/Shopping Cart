@@ -1,0 +1,30 @@
+## TC-024 - Verify cart icon is always visible
+
+**Expected Result**
+Cart icon is displayed on every inventory page.
+
+---
+
+## TC-025 - Verify quantity of products in cart
+
+**Steps**
+
+1. Add two products.
+2. Open Cart.
+
+**Expected Result**
+
+Both products are displayed with correct quantity.
+
+---
+
+## TC-026 - Verify removing one item keeps remaining items
+
+**Steps**
+
+1. Add two products.
+2. Remove one.
+
+**Expected Result**
+
+One product remains in cart.
