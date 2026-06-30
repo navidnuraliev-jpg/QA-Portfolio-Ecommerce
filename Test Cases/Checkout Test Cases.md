@@ -79,3 +79,27 @@
 **Expected Result**
 - User is returned to the Cart page.
 - Products remain in the shopping cart.
+
+## TC-027 - Verify Cancel button functionality
+
+**Steps**
+
+1. Open Checkout Information.
+2. Click Cancel.
+
+**Expected Result**
+
+User returns to Cart page.
+
+---
+
+## TC-028 - Verify order confirmation page
+
+**Steps**
+
+1. Complete checkout.
+
+**Expected Result**
+
+Confirmation message is displayed.
+Order completion icon is visible.
